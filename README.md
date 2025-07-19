@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Shakil 
 #### Programmer
 
-Welcome to my GitHub profile! I'm a Python enthusiast with a moderate level of expertise. I love tinkering with code and diving into Python projects that pique my interest. 
+Welcome to my GitHub profile! I'm a R and Python enthusiast with a basic level of expertise. I love tinkering with code and diving into R and Python projects that pique my interest. 
 
-Skills: Python
+Skills: R & Python
 
 - 🔭 I’m currently working on this page. 
 
