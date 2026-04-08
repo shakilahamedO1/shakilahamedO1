@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there!👋 I'm Shakil - welcome to my GitHub.
 
-<!--
-**shakilahamedO1/shakilahamedO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an enthusiast in **R** and **Python**, working to improve my skills and expand my expertise.
 
-Here are some ideas to get you started:
+I enjoy exploring new ideas. When something sparks my curiosity, I turn it into a project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary interest lies in bioinformatics and biological data analysis, where I apply computational approaches to better understand human diseases, particularly cancer.
+
+**Areas of Interest:**
+- Machine learning for biological data analysis
+- Statistical analysis and data modeling
+- Computer-aided drug design
+- Biomarker identification from sequencing data
