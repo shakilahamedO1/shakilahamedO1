@@ -4,7 +4,7 @@ I’m an enthusiast in **R** and **Python**, working to improve my skills and ex
 
 I enjoy exploring new ideas. When something sparks my curiosity, I turn it into a project.
 
-My primary interest lies in bioinformatics and biological data analysis, where I apply computational approaches to better understand human diseases, particularly cancer.
+My primary interest lies in bioinformatics and biological data analysis, where I apply computational approaches to better understand biological systems.
 
 **Areas of Interest:**
 - Machine learning for biological data analysis
